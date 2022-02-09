@@ -11,7 +11,7 @@ var registros = [
         id: '01',
         matricula: '222010043',
         foto: img1,
-        nombre: 'Luis Enrique González García',
+        nomnre: "Fernando",
         fn: '1993/04/14',
         grupo: 'DSM-53',
     },
@@ -19,7 +19,7 @@ var registros = [
         id: '02',
         matricula: '222010053',
         foto: img2,
-        nombre: 'Carlos Ruiz Prado',
+        nombre: "Juan",
         fn: '1983/05/04',
         grupo: 'DSM-53',
     },
@@ -27,7 +27,7 @@ var registros = [
         id: '03',
         matricula: '222010063',
         foto: img3,
-        nombre: 'Ramón Ayala Basilio',
+        nombre: "Pedro",
         fn: '2002/02/14',
         grupo: 'DSM-53',
     },
@@ -35,10 +35,10 @@ var registros = [
         id: '04',
         matricula: '222010073',
         foto: img4,
-        nombre: 'Juan Carlos Villanueva Sanchez',
+        nombre: "Ernesto",
         fn: '2001/12/04',
         grupo: 'DSM-53',
-    }
+    }   
 ];
 
 var datos=registros[0];
