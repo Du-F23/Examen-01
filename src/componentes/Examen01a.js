@@ -11,7 +11,7 @@ var registros = [
         id: '01',
         matricula: '222010043',
         foto: img1,
-        nomnre: "Fernando",
+        nombre: "Fernando",
         fn: '1993/04/14',
         grupo: 'DSM-53',
     },
